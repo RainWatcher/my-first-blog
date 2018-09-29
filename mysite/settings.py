@@ -106,6 +106,7 @@ AUTH_PASSWORD_VALIDATORS = [
 
 LANGUAGE_CODE = 'en-us'
 
+#Wikipedia list of Time Zone codes:  https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 TIME_ZONE = 'America/New_York'
 
 USE_I18N = True
